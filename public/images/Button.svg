@@ -1,0 +1,7 @@
+<svg id="Button_" data-name="Button " xmlns="http://www.w3.org/2000/svg" width="208" height="48" viewBox="0 0 208 48">
+  <g id="Area_DISPLAY_ELEMENTS:Label_SIZE:MEDIUM_STATE:DEFAULT_STYLE:STYLE1_" data-name="Area [DISPLAY_ELEMENTS:Label][SIZE:MEDIUM][STATE:DEFAULT][STYLE:STYLE1]" fill="none" stroke="#e46b88" stroke-width="1">
+    <rect width="208" height="48" rx="23" stroke="none"/>
+    <rect x="0.5" y="0.5" width="207" height="47" rx="22.5" fill="none"/>
+  </g>
+  <text id="Label" transform="translate(104 30)" fill="#ea7a95" font-size="16" font-family="NotoSans-SemiBold, Noto Sans" font-weight="600"><tspan x="-33" y="0">Ver mais</tspan></text>
+</svg>
