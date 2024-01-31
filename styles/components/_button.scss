@@ -1,0 +1,16 @@
+// styles/components/_button.scss
+
+.button {
+    padding: 10px 20px;
+    background-color: #508F59; // Example color, adjust as needed
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  
+    &:hover {
+      background-color: darken(#508F59, 10%); // Darken the button on hover
+    }
+  }
+  

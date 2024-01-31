@@ -1,8 +1,10 @@
+// styles.scss
+
 @use 'abstracts';
 @use 'components';
 @use 'layouts';
 @use 'pages';
 
 .title {
-    color: $font-pink;
+    color: abstracts.$font-pink;
 }

@@ -1,0 +1,15 @@
+// styles/layouts/_header.scss
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: #F9F9F9; // Example color, adjust as needed
+  }
+  
+  .header-title {
+    margin: 0;
+    color: #4C4C4C; // Example color, adjust as needed
+  }
+  

@@ -1,7 +1,14 @@
-export default function Home() {
+// src/app/page.tsx
+
+import React from "react";
+import Header from "./layouts/Header";
+
+const Home = () => {
   return (
-    <>
-    <h1>Testando</h1>
-    </>
+    <div>
+      <Header />
+    </div>
   );
-}
+};
+
+export default Home;
